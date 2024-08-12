@@ -7,6 +7,9 @@ Alternative approach: using `pyodide` as `pygbag`-replacement.
 ## TODO
 * add more docu
 
+##
+Result: can be accessed via [https://marcelpetrick.github.io/4-7-8-breathing-python-browser-prototype/](https://marcelpetrick.github.io/4-7-8-breathing-python-browser-prototype/)
+
 ## Author
 This project was created by mail@marcelpetrick.it.  
 It serves as a test and demonstration of running `pygame` applications in the browser.
